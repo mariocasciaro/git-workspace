@@ -1,12 +1,15 @@
 [![NPM](https://nodei.co/npm/git-workspace.png?downloads=true)](https://nodei.co/npm/git-workspace/)
 
-[![Build Status](https://travis-ci.org/mariocasciaro/git-workspace.png)](https://travis-ci.org/mariocasciaro/git-workspace)
+[![Build Status](https://travis-ci.org/mariocasciaro/git-workspace.png)](https://travis-ci.org/mariocasciaro/git-workspace) [![Dependency Status](https://david-dm.org/mariocasciaro/git-workspace.png)](https://david-dm.org/mariocasciaro/git-workspace)
 
 
 # Synopsis
 
-Manages multiple git-based projects, when each one of them has a different remote repository or possible more then
-one remote repository.
+A command line utility to manage multiple git-based projects, when each one of them has a different remote repository
+or possible more then one remote repository.
+
+If you are working with Node.js [npm-workspace](https://github.com/mariocasciaro/npm-workspace) is the perfect companion
+to this utility
 
 # Stability
 
