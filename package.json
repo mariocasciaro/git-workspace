@@ -1,6 +1,6 @@
 {
   "name": "git-workspace",
-  "description": "Maintains multiple projects in sync with different remote git repos",
+  "description": "CLI util to keep multiple projects in sync with different remote git repos",
   "version": "0.1.0",
   "homepage": "https://github.com/mariocasciaro/git-workspace",
   "author": {
