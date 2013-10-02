@@ -41,5 +41,8 @@
     "ncp": "~0.4.2"
   },
   "keywords": [
+    "git",
+    "workspace",
+    "repositories"
   ]
 }
