@@ -1,6 +1,6 @@
 [![NPM](https://nodei.co/npm/git-workspace.png?downloads=true)](https://nodei.co/npm/git-workspace/)
 
-[![Build Status](https://travis-ci.org/mariocasciaro/git-workspace.png)](https://travis-ci.org/mariocasciaro/git-workspace) [![Dependency Status](https://david-dm.org/mariocasciaro/git-workspace.png)](https://david-dm.org/mariocasciaro/git-workspace)
+(https://travis-ci.org/mariocasciaro/git-workspace) [![Dependency Status](https://david-dm.org/mariocasciaro/git-workspace.png)](https://david-dm.org/mariocasciaro/git-workspace)
 
 
 # Synopsis
