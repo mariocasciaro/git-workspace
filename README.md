@@ -6,7 +6,7 @@
 # Synopsis
 
 A command line utility to manage multiple git-based projects, when each one of them has a different remote repository
-or possible more then one remote repository.
+or possibly more then one remote repository.
 
 If you are working with Node.js [npm-workspace](https://github.com/mariocasciaro/npm-workspace) is the perfect companion
 to this utility
@@ -38,7 +38,7 @@ To get started create a `workspace.json` in your workspace dir. It will look lik
 {
   "repositories": {
     "default": {
-      "prj1": "git+ssh://example.org/example/repo1
+      "prj1": "git+ssh://example.org/example/repo1"
     },
     "github": {
       "prj2": "git+ssh://example-github.org/example/repo2
@@ -49,7 +49,7 @@ To get started create a `workspace.json` in your workspace dir. It will look lik
 ```
 
 Repositories are aggregated into **groups** (in the example above `default` and `github`). The `default` group`
-provide the default remote repo if none is specified in the other groups and is the default group to be picked
+provides the default remote repo if none is specified for a given project and is the one to be picked
 when no specific group is specified in the command line.
 
 __clone__
