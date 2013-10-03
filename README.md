@@ -5,7 +5,7 @@
 
 # Synopsis
 
-A command line utility to manage multiple git-based projects, when each one of them has a different remote repository
+A command line utility to manage multiple git-based projects, when each one of them has a different remote repositories
 or possibly more then one remote repository.
 
 If you are working with Node.js [npm-workspace](https://github.com/mariocasciaro/npm-workspace) is the perfect companion
@@ -41,8 +41,8 @@ To get started create a `workspace.json` in your workspace dir. It will look lik
       "prj1": "git+ssh://example.org/example/repo1"
     },
     "github": {
-      "prj2": "git+ssh://example-github.org/example/repo2
-      "prj3": "git+ssh://example-github.org/example/repo3
+      "prj2": "git+ssh://example-github.org/example/repo2"
+      "prj3": "git+ssh://example-github.org/example/repo3"
     }
   }
 }
