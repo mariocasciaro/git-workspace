@@ -1,9 +1,7 @@
-[![NPM](https://nodei.co/npm/git-workspace.png?downloads=true)](https://nodei.co/npm/git-workspace/)
+[![NPM version](https://badge.fury.io/js/git-workspace.png)](http://badge.fury.io/js/git-workspace) 
+[![Dependency Status](https://gemnasium.com/mariocasciaro/git-workspace.png)](https://gemnasium.com/mariocasciaro/git-workspace)
 
-[![Dependency Status](https://david-dm.org/mariocasciaro/git-workspace.png)](https://david-dm.org/mariocasciaro/git-workspace)
-
-
-# Synopsis
+# git-workspace
 
 A command line utility to manage multiple git-based projects, when each one of them has a different remote repositories
 or possibly more then one remote repository.
